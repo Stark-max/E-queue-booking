@@ -5,8 +5,6 @@ import jakarta.persistence.*;
 import lombok.*;
 import lombok.experimental.FieldDefaults;
 
-import java.util.Date;
-
 @Getter
 @Setter
 @FieldDefaults(level = AccessLevel.PRIVATE)
@@ -25,6 +23,7 @@ public class User {
 
     @Column(unique = true)
     Integer INN;
+
 
     String phone_number;
 
