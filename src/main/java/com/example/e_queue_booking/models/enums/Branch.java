@@ -1,0 +1,14 @@
+package com.example.e_queue_booking.models.enums;
+
+public enum Branch {
+    ULISA_FRUNZE_338,
+    MOSKOVSKAYA_80_1,
+    UMETALIYEVA_95,
+    ULISA_KIYEVSKAYA_77,
+    JUKEEVA_PUDOVKINA_138,
+    ISA_AXUNBAYEVA_132,
+    BAYTIK_BAATYRA_61A,
+    PROSPEKT_SHABDAN_BAATYRA_43A,
+    ISA_AXUNBAYEVA_198,
+    PROSPEKT_CHUY_48_1
+}
